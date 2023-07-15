@@ -1,0 +1,15 @@
+/Users/alexvannorsdall/code/cSharpPractice/bin/Debug/net7.0/cSharpPractice
+/Users/alexvannorsdall/code/cSharpPractice/bin/Debug/net7.0/cSharpPractice.deps.json
+/Users/alexvannorsdall/code/cSharpPractice/bin/Debug/net7.0/cSharpPractice.runtimeconfig.json
+/Users/alexvannorsdall/code/cSharpPractice/bin/Debug/net7.0/cSharpPractice.dll
+/Users/alexvannorsdall/code/cSharpPractice/bin/Debug/net7.0/cSharpPractice.pdb
+/Users/alexvannorsdall/code/cSharpPractice/obj/Debug/net7.0/cSharpPractice.csproj.AssemblyReference.cache
+/Users/alexvannorsdall/code/cSharpPractice/obj/Debug/net7.0/cSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexvannorsdall/code/cSharpPractice/obj/Debug/net7.0/cSharpPractice.AssemblyInfoInputs.cache
+/Users/alexvannorsdall/code/cSharpPractice/obj/Debug/net7.0/cSharpPractice.AssemblyInfo.cs
+/Users/alexvannorsdall/code/cSharpPractice/obj/Debug/net7.0/cSharpPractice.csproj.CoreCompileInputs.cache
+/Users/alexvannorsdall/code/cSharpPractice/obj/Debug/net7.0/cSharpPractice.dll
+/Users/alexvannorsdall/code/cSharpPractice/obj/Debug/net7.0/refint/cSharpPractice.dll
+/Users/alexvannorsdall/code/cSharpPractice/obj/Debug/net7.0/cSharpPractice.pdb
+/Users/alexvannorsdall/code/cSharpPractice/obj/Debug/net7.0/cSharpPractice.genruntimeconfig.cache
+/Users/alexvannorsdall/code/cSharpPractice/obj/Debug/net7.0/ref/cSharpPractice.dll
